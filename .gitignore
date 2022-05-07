@@ -1,4 +1,6 @@
 wandb/*
+leaderboard/*
+scenario_runner/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
